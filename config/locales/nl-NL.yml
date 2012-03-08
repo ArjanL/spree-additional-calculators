@@ -1,0 +1,19 @@
+---
+nl-NL:
+  calculator_names:
+    weight_and_quantity: Gewicht en aantal
+
+  errors:
+    from_value_greater_than_to_value: "'Van' waarde is groter als 'Tot' waarde"
+
+  additional_calculator_rates: Additional Calculator Rates
+  additional_calculator_rates_description: Configure rates for additional calculators
+  additional_calculators: Additional Calculators
+  weight: Gewicht
+  quantity: Aantal
+  add_new: Nieuwe toevoegen
+  rate_type_1: Gewicht
+  rate_type_2: Aantal
+  from: Van
+  to: Tot
+  default_item_weight: Standaard gewicht producten
